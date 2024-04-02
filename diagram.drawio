@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-23T03:00:28.031Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="UXdtYieDhT_Vq7ZdRj0l" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-02T09:41:12.807Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="A8QM8YubmREV2qPz1Wga" version="24.2.1" type="github">
   <diagram name="Trang-1" id="RL06Z-CkQ_VNJCv6R80n">
-    <mxGraphModel dx="1664" dy="755" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+    <mxGraphModel dx="1148" dy="521" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -116,7 +116,7 @@
           <mxGeometry x="223.5" y="508.5" width="68" height="63" as="geometry" />
         </mxCell>
         <mxCell id="jrErk-Fa7ahGrEmsjVKU-401" value="Viết thông báo" style="ellipse;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="643" y="375" width="69" height="71" as="geometry" />
+          <mxGeometry x="696" y="423" width="69" height="71" as="geometry" />
         </mxCell>
         <mxCell id="jrErk-Fa7ahGrEmsjVKU-402" value="Xóa" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1247" y="805" width="60" height="50" as="geometry" />
@@ -167,10 +167,10 @@
           <mxGeometry x="502" y="752" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jrErk-Fa7ahGrEmsjVKU-414" value="Hẹn lịch phỏng vấn" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="701" y="409" width="81.5" height="70" as="geometry" />
+          <mxGeometry x="664" y="342" width="81.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jrErk-Fa7ahGrEmsjVKU-415" value="Quản lý thành viên" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="918" y="292" width="110" height="70" as="geometry" />
+          <mxGeometry x="905" y="296" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jrErk-Fa7ahGrEmsjVKU-417" value="Yêu cầu giải thể CLB" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="977" y="356" width="110" height="70" as="geometry" />
@@ -260,7 +260,7 @@
           <mxGeometry x="551" y="527" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jrErk-Fa7ahGrEmsjVKU-438" value="Xóa thành viên" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="551" y="276.5" width="74" height="63" as="geometry" />
+          <mxGeometry x="524" y="303" width="74" height="63" as="geometry" />
         </mxCell>
         <mxCell id="jrErk-Fa7ahGrEmsjVKU-439" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jrErk-Fa7ahGrEmsjVKU-437" target="jrErk-Fa7ahGrEmsjVKU-472" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -281,7 +281,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jrErk-Fa7ahGrEmsjVKU-442" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jrErk-Fa7ahGrEmsjVKU-414" target="jrErk-Fa7ahGrEmsjVKU-437" edge="1">
+        <mxCell id="jrErk-Fa7ahGrEmsjVKU-442" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" parent="1" source="jrErk-Fa7ahGrEmsjVKU-414" target="jrErk-Fa7ahGrEmsjVKU-453" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="299.89" y="719.25" as="sourcePoint" />
             <mxPoint x="330" y="649.5" as="targetPoint" />
@@ -312,7 +312,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jrErk-Fa7ahGrEmsjVKU-447" value="Tạo hoạt động" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="335" y="295" width="87" height="49" as="geometry" />
+          <mxGeometry x="307" y="401" width="87" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jrErk-Fa7ahGrEmsjVKU-448" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" parent="1" source="jrErk-Fa7ahGrEmsjVKU-457" target="jrErk-Fa7ahGrEmsjVKU-437" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -327,10 +327,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jrErk-Fa7ahGrEmsjVKU-450" value="Nhận đề xuất thành viên" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="612" y="317" width="84" height="45" as="geometry" />
+          <mxGeometry x="603" y="292" width="84" height="44" as="geometry" />
         </mxCell>
         <mxCell id="jrErk-Fa7ahGrEmsjVKU-451" value="Gửi lời mời tham gia" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="499" y="329" width="71" height="60" as="geometry" />
+          <mxGeometry x="475" y="356" width="71" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jrErk-Fa7ahGrEmsjVKU-452" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" parent="1" source="jrErk-Fa7ahGrEmsjVKU-451" target="jrErk-Fa7ahGrEmsjVKU-453" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -339,7 +339,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jrErk-Fa7ahGrEmsjVKU-453" value="Quản lý thành viên" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="543" y="412" width="110" height="70" as="geometry" />
+          <mxGeometry x="570" y="424" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jrErk-Fa7ahGrEmsjVKU-454" value="Hoạt động CLB" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="428.5" y="625" width="110" height="70" as="geometry" />
@@ -357,21 +357,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jrErk-Fa7ahGrEmsjVKU-457" value="Quản lý hoạt động" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="428.5" y="422" width="110" height="70" as="geometry" />
+          <mxGeometry x="444" y="432.5" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jrErk-Fa7ahGrEmsjVKU-458" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" parent="1" source="jrErk-Fa7ahGrEmsjVKU-447" target="jrErk-Fa7ahGrEmsjVKU-457" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="174.49" y="654.5" as="sourcePoint" />
             <mxPoint x="304.49" y="641.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jrErk-Fa7ahGrEmsjVKU-459" value="Tham gia hoạt động" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="291.5" y="339.5" width="94" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="jrErk-Fa7ahGrEmsjVKU-460" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" parent="1" source="jrErk-Fa7ahGrEmsjVKU-459" target="jrErk-Fa7ahGrEmsjVKU-457" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="221" y="609.5" as="sourcePoint" />
-            <mxPoint x="281" y="609.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jrErk-Fa7ahGrEmsjVKU-461" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" parent="1" source="jrErk-Fa7ahGrEmsjVKU-419" target="jrErk-Fa7ahGrEmsjVKU-472" edge="1">
@@ -390,7 +381,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jrErk-Fa7ahGrEmsjVKU-464" value="Viết thông báo" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="799" y="391.5" width="74" height="57" as="geometry" />
+          <mxGeometry x="794" y="405" width="74" height="57" as="geometry" />
         </mxCell>
         <mxCell id="jrErk-Fa7ahGrEmsjVKU-465" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" parent="1" source="jrErk-Fa7ahGrEmsjVKU-464" target="jrErk-Fa7ahGrEmsjVKU-419" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -470,21 +461,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jrErk-Fa7ahGrEmsjVKU-481" value="Điểm danh hoạt động" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="413" y="320" width="86" height="57" as="geometry" />
+          <mxGeometry x="377" y="362.5" width="86" height="57" as="geometry" />
         </mxCell>
         <mxCell id="jrErk-Fa7ahGrEmsjVKU-482" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" parent="1" source="jrErk-Fa7ahGrEmsjVKU-481" target="jrErk-Fa7ahGrEmsjVKU-457" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="201" y="549.5" as="sourcePoint" />
             <mxPoint x="291" y="549.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jrErk-Fa7ahGrEmsjVKU-483" value="Comment hoạt động" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="308" y="389" width="73" height="59.5" as="geometry" />
-        </mxCell>
-        <mxCell id="jrErk-Fa7ahGrEmsjVKU-484" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" parent="1" source="jrErk-Fa7ahGrEmsjVKU-483" target="jrErk-Fa7ahGrEmsjVKU-457" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="411.1" y="649.01" as="sourcePoint" />
-            <mxPoint x="448.1" y="616.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jrErk-Fa7ahGrEmsjVKU-485" value="Comment hoạt động" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -509,7 +491,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Hee2Yrm5XwE1Mw0rOQRy-3" value="Duyệt hoạt động" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="838" y="333" width="88" height="64" as="geometry" />
+          <mxGeometry x="832" y="337" width="88" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
